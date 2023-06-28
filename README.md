@@ -1,3 +1,4 @@
 # Checkpoint
-Diego Juarez
+- Diego Juarez
 
+- Diana Alderete
