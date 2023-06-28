@@ -2,3 +2,5 @@
 - Diego Juarez
 
 - Diana Alderete
+
+- Omar Zagoya
